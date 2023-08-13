@@ -1,11 +1,11 @@
 
-# phjeong754.github.io
+# haechan-jeong.github.io
 
 Link to the website:
-https://phjeong754.github.io
+https://haechan-jeong.github.io
 
 A personal portfolio website of Haechan Jeong
 created with HTML and CSS
 
-last updated: 10/18/2022
+last updated: 8/13/2023
 
