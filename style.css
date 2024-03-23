@@ -27,14 +27,14 @@ a{
 .cover {
     overflow: hidden;
     position: relative;
-    margin: 0 auto;
+    margin: 0;
     width: 100vw; height: 15vw;
 }
 
 .cover-image {
     overflow: hidden;
     position: absolute;
-    left: 20%
+    left: 25.05%
 }
 
 /* section 1 (left section) */
